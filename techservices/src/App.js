@@ -5,7 +5,7 @@ import WorkingWithUs from './WorkingWithUs';
 import LifeAtTechServices from './LifeAtTechServices';
 import Opportunities from './Opportunities';
 import logo from './assets/logo.png';
-import cover from './assets/cover.jpg';
+// import cover from './assets/cover.jpg';
 
 
 const styles = {
