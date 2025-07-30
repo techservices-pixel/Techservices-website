@@ -66,7 +66,7 @@ function Home() {
                 <p>
                     Contact us today to learn how Tech Services can help you achieve your goals.
                 </p>
-                <a href="mailto:info@techservices.com" style={styles.ctaButton}>Get in Touch</a>
+                <a href="mailto:tech.services101991@gmail.com" style={styles.ctaButton}>Get in Touch</a>
             </section>
         </div>
     );

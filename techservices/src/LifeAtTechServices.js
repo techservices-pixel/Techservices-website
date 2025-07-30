@@ -76,7 +76,7 @@ function LifeAtTechServices() {
                 <p>
                     Join us and be part of a workplace that supports your ambitions and celebrates your achievements.
                 </p>
-                <a href="mailto:careers@techservices.com" style={styles.ctaButton}>Join Our Team</a>
+                <a href="mailto:tech.services101991@gmail.com" style={styles.ctaButton}>Join Our Team</a>
             </section>
         </div>
     );

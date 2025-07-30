@@ -74,7 +74,7 @@ function WorkingWithUs() {
                 <p>
                     Explore open positions or reach out to discover how you can be part of Tech Services.
                 </p>
-                <a href="mailto:careers@techservices.com" style={styles.ctaButton}>Apply Now</a>
+                <a href="mailto:tech.services101991@gmail.com" style={styles.ctaButton}>Apply Now</a>
             </section>
         </div>
     );

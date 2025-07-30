@@ -70,7 +70,7 @@ function Opportunities() {
                 <p>
                     Apply now or reach out to learn more about opportunities at Tech Services. Your future starts here!
                 </p>
-                <a href="mailto:careers@techservices.com" style={styles.ctaButton}>Apply Today</a>
+                <a href="mailto:tech.services101991@gmail.com" style={styles.ctaButton}>Apply Today</a>
             </section>
         </div>
     );
